@@ -90,6 +90,7 @@ public class MinHeap {
         // Check for left child and see if value is greater than right's
         if(rightChild < heap.size() - 1
                 && heap.get(leftChild) > heap.get(rightChild)){
+            
             // If right child is less than value, do a swap
             if (heap.get(rightChild) < heap.get(index)) {
                 Collections.swap(heap, rightChild, index);
