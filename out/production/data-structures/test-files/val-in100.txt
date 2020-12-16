@@ -1,0 +1,128 @@
+in100.txt contains:
+i 3193
+i 4823
+i 495
+d 67
+i 2976
+i 434
+i 2039
+i 1757
+i 3342
+i 3334
+i 4178
+i 969
+i 927
+i 991
+i 2150
+d 868
+i 497
+i 2538
+i 3869
+i 4104
+i 3037
+i 3854
+i 4497
+i 2244
+i 815
+d 3842
+i 1007
+i 4076
+i 744
+i 4140
+d 2193
+i 1525
+d 2093
+i 1555
+d 2335
+d 1935
+d 4424
+i 4666
+i 4528
+i 879
+i 2508
+i 3794
+i 1810
+d 4880
+d 4823
+i 1803
+i 3993
+i 2350
+d 2352
+i 2198
+i 100
+d 1967
+i 583
+i 2969
+i 2179
+i 2301
+i 1900
+d 2528
+i 4701
+i 1708
+i 1215
+d 1052
+i 2382
+i 765
+d 942
+i 2451
+i 2829
+i 2653
+i 454
+i 2877
+i 4731
+i 2533
+i 1537
+i 4574
+i 3231
+i 2734
+i 46
+i 516
+i 3223
+i 2320
+d 4934
+i 3719
+i 745
+d 2680
+d 3737
+i 927
+i 3000
+d 2660
+d 4921
+i 1255
+d 1426
+i 4620
+d 2527
+i 1429
+i 462
+i 759
+i 90
+d 3034
+i 2979
+i 47
+q
+67: NOT found - NOT deleted
+868: NOT found - NOT deleted
+3842: NOT found - NOT deleted
+2193: NOT found - NOT deleted
+2093: NOT found - NOT deleted
+2335: NOT found - NOT deleted
+1935: NOT found - NOT deleted
+4424: NOT found - NOT deleted
+4880: NOT found - NOT deleted
+2352: NOT found - NOT deleted
+1967: NOT found - NOT deleted
+2528: NOT found - NOT deleted
+1052: NOT found - NOT deleted
+942: NOT found - NOT deleted
+4934: NOT found - NOT deleted
+2680: NOT found - NOT deleted
+3737: NOT found - NOT deleted
+2660: NOT found - NOT deleted
+4921: NOT found - NOT deleted
+1426: NOT found - NOT deleted
+2527: NOT found - NOT deleted
+3034: NOT found - NOT deleted
+left children:         55
+left depth:            12
+right children:        20
+right depth:            7
